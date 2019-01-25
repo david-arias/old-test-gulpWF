@@ -1,0 +1,14 @@
+
+
+/* * VARS * */
+//colors
+$bgMain: #222;
+
+/* * RESET * */
+@import 'reset';
+
+/* * */
+body {
+	background: $bgMain;
+	color: white;
+}
